@@ -1,1 +1,3 @@
-CheatSheets collection
+CheatSheets collection:
+ - GitCommands
+ - GitBash commands
