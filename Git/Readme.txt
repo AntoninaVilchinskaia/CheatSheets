@@ -4,4 +4,4 @@ CheatSheets collection:
 
 Addition 1
 Addition 2 (from feature_add_file)
-
+Addition 3 
